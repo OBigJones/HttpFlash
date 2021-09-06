@@ -1,0 +1,20 @@
+C:\Users\OBigJones\OneDrive\Área de Trabalho\projeto_flash\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+C:\Users\OBigJones\OneDrive\Área de Trabalho\projeto_flash\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OBigJones\OneDrive\Área de Trabalho\projeto_flash\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\OBigJones\OneDrive\Área de Trabalho\projeto_flash\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\OBigJones\OneDrive\Área de Trabalho\projeto_flash\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Projetos\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+C:\Projetos\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Projetos\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Projetos\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Projetos\HTTPHeadersFlashMeeting\Data\bin\Debug\net5.0\Data.deps.json
+C:\Projetos\HTTPHeadersFlashMeeting\Data\bin\Debug\net5.0\Data.dll
+C:\Projetos\HTTPHeadersFlashMeeting\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Projetos\HTTPHeadersFlashMeeting\Data\bin\Debug\net5.0\Data.pdb
+C:\Projetos\HTTPHeadersFlashMeeting\Data\bin\Debug\net5.0\Domain.dll
+C:\Projetos\HTTPHeadersFlashMeeting\Data\bin\Debug\net5.0\Domain.pdb
+C:\Projetos\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Projetos\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.dll
+C:\Projetos\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Projetos\HTTPHeadersFlashMeeting\Data\obj\Debug\net5.0\Data.pdb
