@@ -1,5 +1,6 @@
 ﻿using Domain.User;
 using Domain.User.Model;
+using HTTPHeadersFlashMeeting.Filters;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
@@ -18,15 +19,10 @@ namespace HTTPHeadersFlashMeeting.Controllers
         }
 
         [HttpPost]
+        [ServiceFilter(typeof(Authentication))]
         public Task CreateUser(User user)
         {
             return _userService.CreateUser(user);
-        }
-
-        [HttpPost("POST_SIM")]
-        public Task<User> GetUser(string name)
-        {
-            return _userService.GetUser(name);
         }
     }
 }

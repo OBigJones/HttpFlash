@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj": {}
+    "C:\\Projetos\\HttpFlash\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\HTTPHeadersFlashMeeting\\Adapter\\Adapter.csproj": {
+    "C:\\Projetos\\HttpFlash\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "C:\\Projetos\\HttpFlash\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Adapter\\Adapter.csproj",
+        "projectPath": "C:\\Projetos\\HttpFlash\\Adapter\\Adapter.csproj",
         "packagesPath": "C:\\Users\\OBigJones\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Adapter\\obj\\",
+        "outputPath": "C:\\Projetos\\HttpFlash\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj"
+              "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Projetos\\HTTPHeadersFlashMeeting\\Data\\Data.csproj": {
+    "C:\\Projetos\\HttpFlash\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Projetos\\HttpFlash\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Data\\Data.csproj",
+        "projectPath": "C:\\Projetos\\HttpFlash\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\OBigJones\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Data\\obj\\",
+        "outputPath": "C:\\Projetos\\HttpFlash\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -94,8 +94,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj"
+              "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj": {
+    "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\OBigJones\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\HttpFlash\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Projetos\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj": {
+    "C:\\Projetos\\HttpFlash\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj",
+        "projectUniqueName": "C:\\Projetos\\HttpFlash\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj",
         "projectName": "HTTPHeadersFlashMeeting",
-        "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj",
+        "projectPath": "C:\\Projetos\\HttpFlash\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj",
         "packagesPath": "C:\\Users\\OBigJones\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting\\obj\\",
+        "outputPath": "C:\\Projetos\\HttpFlash\\HTTPHeadersFlashMeeting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -230,14 +230,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projetos\\HTTPHeadersFlashMeeting\\Adapter\\Adapter.csproj": {
-                "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Adapter\\Adapter.csproj"
+              "C:\\Projetos\\HttpFlash\\Adapter\\Adapter.csproj": {
+                "projectPath": "C:\\Projetos\\HttpFlash\\Adapter\\Adapter.csproj"
               },
-              "C:\\Projetos\\HTTPHeadersFlashMeeting\\Data\\Data.csproj": {
-                "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Data\\Data.csproj"
+              "C:\\Projetos\\HttpFlash\\Data\\Data.csproj": {
+                "projectPath": "C:\\Projetos\\HttpFlash\\Data\\Data.csproj"
               },
-              "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj"
+              "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj"
               }
             }
           }

@@ -19,10 +19,10 @@ namespace Data.Repository
             return _collection.InsertOneAsync(user);
         }
 
-        public Task<User> GetUser(string name)
+        public User GetUser(string name)
         {
             var filter = Builders<User>.Filter.Where(x => x.Username.Equals(name));
-            return _collection.FindSync(filter).FirstOrDefaultAsync();
+            return _collection.FindSync(filter).FirstOrDefault();
         }
     }
 }

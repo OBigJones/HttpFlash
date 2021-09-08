@@ -6,6 +6,6 @@ namespace Domain.User
     {
         Task CreateUser(Model.User user);
 
-        Task<Model.User> GetUser(string name);
+        Model.User GetUser(string name);
     }
 }

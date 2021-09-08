@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+b9BPJuNlLR/vURfgGr8mNu60pZI9CsTcPWZPVkCD31xf/lZexR4GgnpSFLB19PFLWdyxaqfMusxjW0Sjaq3w==",
+  "dgSpecHash": "iBPAqmLHlnBJSKF8VQCTFGyEPrrbixcgSZnkSXWErMVGk7yE/XvmeRYKiVYQuxTD9ScXX8MsqcGYSu3ysSICFQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Adapter\\Adapter.csproj",
+  "projectFilePath": "C:\\Projetos\\HttpFlash\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OBigJones\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\OBigJones\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",

@@ -7,9 +7,11 @@ namespace Domain.User.Model
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public string Id { get; set; }
+        public string Id { get; init; }
 
         public string Username { get; set; }
+
+        public string MacAdress { get; set; }
 
         public string Password { get; set; }
 

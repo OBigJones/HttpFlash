@@ -1,4 +1,6 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Net.NetworkInformation;
+using System.Threading.Tasks;
 
 namespace Domain.User
 {
@@ -13,12 +15,39 @@ namespace Domain.User
 
         public Task CreateUser(Model.User user)
         {
+            var mac = GetEnderecoMAC1();
+
+            user.MacAdress = mac;
+
             return _userRepository.CreateUser(user);
         }
 
-        public Task<Model.User> GetUser(string name)
+        public Model.User GetUser(string name)
         {
             return _userRepository.GetUser(name);
+        }
+
+        private static string GetEnderecoMAC1()
+        {
+            try
+            {
+                NetworkInterface[] nics = NetworkInterface.GetAllNetworkInterfaces();
+                var enderecoMAC = string.Empty;
+                foreach (NetworkInterface adapter in nics)
+                {
+                    // retorna endereço MAC do primeiro cartão
+                    if (enderecoMAC == string.Empty)
+                    {
+                        IPInterfaceProperties properties = adapter.GetIPProperties();
+                        enderecoMAC = adapter.GetPhysicalAddress().ToString();
+                    }
+                }
+                return enderecoMAC;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }

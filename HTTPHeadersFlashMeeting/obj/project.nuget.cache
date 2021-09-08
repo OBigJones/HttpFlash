@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5+pHLuFVyAE0Cpz1/oFSL4UcTXL988poKChPmT7y+EF2B3JFl8P9Ou9oqAEaXovBkrV77A17VIGd67q9MjZzIg==",
+  "dgSpecHash": "mAmr/ABwKDSbUjTinFw2jSsD2u9Z/yPs7npjTRqs/g6bOVFzD+rYuoUKEhLiCaqfrGFmf5I3XAbgPuLN/Z9Bbg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj",
+  "projectFilePath": "C:\\Projetos\\HttpFlash\\HTTPHeadersFlashMeeting\\HTTPHeadersFlashMeeting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OBigJones\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\OBigJones\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",

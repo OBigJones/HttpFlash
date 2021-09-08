@@ -455,11 +455,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\OBigJones\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\HTTPHeadersFlashMeeting\\Domain\\obj\\",
+      "outputPath": "C:\\Projetos\\HttpFlash\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
