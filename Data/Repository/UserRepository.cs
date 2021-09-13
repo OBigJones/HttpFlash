@@ -24,5 +24,13 @@ namespace Data.Repository
             var filter = Builders<User>.Filter.Where(x => x.Username.Equals(name));
             return _collection.FindSync(filter).FirstOrDefault();
         }
+
+        public User Login(string name, string password)
+        {
+            var filter = Builders<User>.Filter.Where(x => x.Username.Equals(name) 
+            && x.Password.Equals(password) 
+            && x.State.Equals("Active"));
+            return _collection.FindSync(filter).FirstOrDefault();
+        }
     }
 }

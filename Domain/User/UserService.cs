@@ -18,6 +18,7 @@ namespace Domain.User
             var mac = GetEnderecoMAC1();
 
             user.MacAdress = mac;
+            user.State = "Active";
 
             return _userRepository.CreateUser(user);
         }

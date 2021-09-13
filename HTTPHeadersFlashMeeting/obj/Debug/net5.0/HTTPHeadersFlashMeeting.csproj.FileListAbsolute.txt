@@ -124,3 +124,10 @@ C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\obj\Debug\net5.0\HTTPHeadersFlashM
 C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\obj\Debug\net5.0\ref\HTTPHeadersFlashMeeting.dll
 C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\obj\Debug\net5.0\HTTPHeadersFlashMeeting.pdb
 C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\obj\Debug\net5.0\HTTPHeadersFlashMeeting.genruntimeconfig.cache
+C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\HttpFlash\HTTPHeadersFlashMeeting\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
