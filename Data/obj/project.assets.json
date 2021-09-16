@@ -532,25 +532,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OBigJones\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\joao.dutra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\HttpFlash\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Projetos\\flash\\HttpFlash\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Projetos\\HttpFlash\\Data\\Data.csproj",
-      "packagesPath": "C:\\Users\\OBigJones\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\HttpFlash\\Data\\obj\\",
+      "projectPath": "C:\\Projetos\\flash\\HttpFlash\\Data\\Data.csproj",
+      "packagesPath": "C:\\Users\\joao.dutra\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\flash\\HttpFlash\\Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\OBigJones\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\joao.dutra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -563,8 +558,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Projetos\\HttpFlash\\Domain\\Domain.csproj"
+            "C:\\Projetos\\flash\\HttpFlash\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Projetos\\flash\\HttpFlash\\Domain\\Domain.csproj"
             }
           }
         }

@@ -43,7 +43,7 @@ namespace HTTPHeadersFlashMeeting.Controllers
             var handler = new JwtSecurityTokenHandler();
             var jwtSecurityToken = handler.ReadJwtToken(justJWT);
             List<Claim> jti = (List<Claim>)jwtSecurityToken.Claims;
-            var exp = int.Parse(jti[0].Value);
+            var exp = int.Parse(jti.Find(x => x.Type.Equals("exp")).Value);
             DateTimeOffset dateTimeOffset = DateTimeOffset.FromUnixTimeSeconds(exp);
             var result = Ok("Sua sessão expira em " + dateTimeOffset);
             return result; 
@@ -53,15 +53,8 @@ namespace HTTPHeadersFlashMeeting.Controllers
         [ServiceFilter(typeof(LoginAuth))]
         public IActionResult Login()
         {
-            if (!HttpContext.Equals(Unauthorized()))
-            {
-                var tokenString = GerarTokenJWT();
-                return Ok(new { token = tokenString });
-            }
-            else
-            {
-                return Unauthorized();
-            }
+            var tokenString = GerarTokenJWT();
+            return Ok(new { token = tokenString });
         }
 
 

@@ -27,3 +27,15 @@ C:\Projetos\HttpFlash\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.ca
 C:\Projetos\HttpFlash\Domain\obj\Debug\net5.0\Domain.dll
 C:\Projetos\HttpFlash\Domain\obj\Debug\net5.0\ref\Domain.dll
 C:\Projetos\HttpFlash\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Projetos\flash\HttpFlash\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Projetos\flash\HttpFlash\Domain\bin\Debug\net5.0\Domain.dll
+C:\Projetos\flash\HttpFlash\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Projetos\flash\HttpFlash\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Projetos\flash\HttpFlash\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Projetos\flash\HttpFlash\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\flash\HttpFlash\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\flash\HttpFlash\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Projetos\flash\HttpFlash\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\flash\HttpFlash\Domain\obj\Debug\net5.0\Domain.dll
+C:\Projetos\flash\HttpFlash\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Projetos\flash\HttpFlash\Domain\obj\Debug\net5.0\Domain.pdb

@@ -18,7 +18,6 @@ namespace HTTPHeadersFlashMeeting.Filters
             var password = context.HttpContext.Request.Headers["Password"];
             var username = context.HttpContext.Request.Headers["Username"];
 
-
             var user = _userRepository.Login(username, password);
 
             if (user is null)
